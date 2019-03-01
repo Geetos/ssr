@@ -1,0 +1,73 @@
+2019-02-28 22:26:32 INFO     util.py:85 loading libcrypto from libcrypto.so.10
+2019-02-28 22:26:32 INFO     asyncdns.py:324 dns server: [('172.31.0.2', 53)]
+2019-02-28 22:26:32 INFO     shell.py:72 ShadowsocksR 3.4.0 2017-07-27
+2019-02-28 22:26:32 INFO     db_transfer.py:238 current process RLIMIT_NOFILE resource: soft 512000 hard 512000
+2019-02-28 22:26:32 INFO     db_transfer.py:205 db start server at port [2333] pass [rah8514621] protocol [auth_aes128_md5] method [aes-128-ctr] obfs [plain]
+2019-02-28 22:26:32 INFO     server_pool.py:127 starting server at [::]:2333
+2019-02-28 22:26:32 INFO     server_pool.py:153 starting server at 0.0.0.0:2333
+2019-02-28 22:37:33 WARNING  common.py:238 unsupported addrtype 69, maybe wrong password or encryption method
+2019-02-28 22:37:33 WARNING  tcprelay.py:521 Protocol ERROR, TCP ogn data c56cf243d417ac7f8a5862cee37b65b4e4595e2caf5db9b712958b025caef315873c9543648ddaf99517b9c14fcc6a1b085a9c06a1bfb39d3bcb2922db4d11d51931237859be368e945374e64e247c170c9b0fab3d8f32ae7af363713ebd8905ec6e20dc9779c37f48c653b8ac319ff08bb496498cc7399adc97903fe0216c405313acb86126f906d16e0eeaa37695ff022c505c3567bb415f74a074fa4fb283881c4c29bf647d6ad46c0d2d1e7b5210eebb404b99675fca678864a5fc6d1662edc9b98804d960f11308bfa7655e0c75ed3440c13f51d7b3497d4e277c8d6ea7a7aff7446f73f331ad from ::ffff:182.138.158.153:18094 via port 2333 by UID 2333
+2019-02-28 22:37:33 ERROR    tcprelay.py:1097 can not parse header when handling connection from ::ffff:182.138.158.153:18094
+2019-02-28 22:42:41 ERROR    tcprelay.py:1039 [Errno 32] Broken pipe
+2019-02-28 22:42:41 ERROR    tcprelay.py:1041 remote error, when connect to 120.92.96.2:5222
+2019-02-28 22:45:00 WARNING  common.py:238 unsupported addrtype 69, maybe wrong password or encryption method
+2019-02-28 22:45:00 WARNING  tcprelay.py:521 Protocol ERROR, TCP ogn data 14a1d284f20f4388b1a29071d40885908d7a8be8adbaee1f7a75227210f9be31d19548d34d1cf9e8fe7a6c65034ad67634c68eca71893a6a6cfe6553dedcaa3e04c84128a65dfd2c876b848eb8336eff3e678194c6841344f3f0347bfc85298f3b621bbe26a0014b6db8d3803b00545fc5b045fccc81bb40627d345a18317fd318d1b111084b56e434420bad22929ba1d9718994ae9b6ea4ff5dd7dcf9b67576dc423940145947c4b36c1cca7e682219e1d60e936cfb516a4c8ec00ff9398db3a5f91629862b2099cfc642af0b00e13d7f1b6393b349b4a9dca0c857f73f22afe7d9256689836c12b35f8ca8d745dd36c6181cf23541abe47abe5c8c2d9a60fa2ff3c0ffa97884d339f75e1b77b649e0cec68abbd001200224c5e7be3bd2ac9f1881acf1f3300be35bf8da8356405e7853365a683ad95ed2f9e5e7e5f63adc2de5a4ce3fd5f381b4345358ebc5022582b0e335013d792426d0 from ::ffff:113.128.105.75:26751 via port 2333 by UID 2333
+2019-02-28 22:45:00 ERROR    tcprelay.py:1097 can not parse header when handling connection from ::ffff:113.128.105.75:26751
+2019-02-28 22:48:39 WARNING  common.py:238 unsupported addrtype 69, maybe wrong password or encryption method
+2019-02-28 22:48:39 WARNING  tcprelay.py:521 Protocol ERROR, TCP ogn data ad2776751323a02504c1f04cf04b2d6151afe9c2317e75341b13a426f80a5b14eb64422219bd34d20c3892b364c9e97431b5bc8790c2e501958c62261723404567cf525ec49448b1a0964afe85b157716b2a333034d0d48a07843d3323c388eba0811c6c7954692946a8925d2fe3e97d0ff6ca8b0bfe3c6b75a99705eb0bba97e1540aa60e958ff4f21f16777a633da8ce1cfcdcac637c127b14998ed85960d3ff0ec5b22fd62a1100d559d346176d31c2cd62a71b5722e2de4e76adbd0beaf0bf4185f261228832e9778d560f601e9c0db0d84c9a9fdea5b6660e81fcf8e6bdef8f7207b1bd0b56d4698c5407a396b8b6055c6bf8560535955e99d0ba704b32bf70263f7ff94bf705a73a8a51e13eb4ea94fe92081ef2452c0f4936deeb12f791455295721073271abcaa391d93ec8180a81e97209a5964b18b669637c0edd8dbccef2004ee93f5484325d7845c9a76e5506a79ecedba516321fec948045d47fd892c634946ecfa12319e67827415b6d1a3130e3b5c0136692e8db1f148a1e4081cd8181750ad34bb3f6b6473cecc6201b01183c45cd7080a923b75cd10cae3f7ae1bda17241c546c7b6fd7e37025756fe30879906d4003da4b3c43658e91da7c73014ac8d8bed0968983837dd7545ceea469864cd37d316f1a6258893e285899a22e448e6cdc3c3eb76feaaf00d0e422f00e5e62982287650371fa833b7baf811c32cc01ed37c14475b45936120e36db7c6cb5fd14f57a6765c5677db1796a990e7aa52f1ab0023851dbdb53cb6a3d0fee4dba01464f3a6e42c445852fc7099849fa9ff604df2dbf2e633c34acd243d1f8f4cabc55faa2b1bc906a74e192e6868350d5d94b9ae6949110428549b1ae127d from ::ffff:223.166.74.48:47221 via port 2333 by UID 2333
+2019-02-28 22:48:39 ERROR    tcprelay.py:1097 can not parse header when handling connection from ::ffff:223.166.74.48:47221
+2019-02-28 22:52:17 ERROR    tcprelay.py:1039 [Errno 32] Broken pipe
+2019-02-28 22:52:17 ERROR    tcprelay.py:1041 remote error, when connect to 203.100.92.12:5222
+2019-02-28 22:56:34 WARNING  common.py:238 unsupported addrtype 69, maybe wrong password or encryption method
+2019-02-28 22:56:34 WARNING  tcprelay.py:521 Protocol ERROR, TCP ogn data 5b1aefd5a53f355d38df469d536df041e8794ee15725bed140dd2598823471713dcd07a3cfaf763c023049d00207eafeebf12800513bfe8abb6a6cec0ba4b9b5024cc87f558af70ec41ede29806dec89ee979d603db57bc1a5f9a204945a04a38e424856c47ae499d6a8593049b987531d231f338433def393bb488cbac88a447cf338e82e6536e136f23dcb40cd32ff33122a7f039d8afaa2bb4fb90b5096a6bbb0c8a19774f9f48957355827917e3dae31dfb16f48612160d4c5361f1510c49d46d2941155d511a3466b493bbcfcb100802c9109a7c918740bd7b657fd84d428bed44f1d4fde6dfeff47a90e499676455927f9894a5d4fe5d812c5610d521c023b308b37d0cb13fa9dcb93f67bfd102c061c95f325f7d5c2a5b9476cd49836a3038fd1dac4b52aac1fc4d7efa92f68d612929e64bafca82740abc0aa51314a59c3dd029f10a6cc9e6d9f6d4a9329654b4785d38ccccf6bdae5b3cb8e953c417de26b8db24c2c2f19ad24aa0c37aaa202280048dfbb86f6981b64cf4358fc06b65de1356d8786d7d1a64206a951bc154c8d7b088278f5051bf4bf6e78b762291a06 from ::ffff:36.5.176.211:14648 via port 2333 by UID 2333
+2019-02-28 22:56:34 ERROR    tcprelay.py:1097 can not parse header when handling connection from ::ffff:36.5.176.211:14648
+2019-02-28 23:03:26 ERROR    tcprelay.py:1039 [Errno 32] Broken pipe
+2019-02-28 23:03:26 ERROR    tcprelay.py:1041 remote error, when connect to 203.100.92.12:5222
+2019-02-28 23:05:48 ERROR    tcprelay.py:1039 [Errno 32] Broken pipe
+2019-02-28 23:05:48 ERROR    tcprelay.py:1041 remote error, when connect to 120.92.96.2:5222
+2019-02-28 23:14:00 ERROR    tcprelay.py:1039 [Errno 111] Connection refused
+2019-02-28 23:14:00 ERROR    tcprelay.py:1041 remote error, when connect to 198.11.138.254:53
+2019-02-28 23:14:02 ERROR    tcprelay.py:1039 [Errno 111] Connection refused
+2019-02-28 23:14:02 ERROR    tcprelay.py:1041 remote error, when connect to 14.152.65.1:53
+2019-02-28 23:14:05 INFO     tcprelay.py:1355 port 2333 connections up to 25
+2019-02-28 23:14:05 ERROR    tcprelay.py:1039 [Errno 111] Connection refused
+2019-02-28 23:14:05 ERROR    tcprelay.py:1041 remote error, when connect to 198.11.138.254:53
+2019-02-28 23:14:06 WARNING  common.py:238 unsupported addrtype 69, maybe wrong password or encryption method
+2019-02-28 23:14:06 WARNING  tcprelay.py:521 Protocol ERROR, TCP ogn data b125fc054cf40b3b67da62e946acf98814304b0c388778b3dcdb690be9c2e84a4fb8e258e6cb7c015adb23791627450ca60696cd4149ad438f983f668fe996065ff09efde6bb5a0b19332925a5a9bb3d13dd927a88c63349edd44b1d174463f0154c82d0e9fb21eab4d3fb51ce464d2316a810fc44a151ba2a6a1bb8703d810be1d605e6bfc6765fd50f0d8c8a164f729acd362addcef744589fa7b1cdd499d779902b5b1e9d74f7484ef7de6f5c77846375a216f6ebb53078a6b76dab217d7db281afb5c6c33cbacfd962a9cabf033ee26880ad537513195da74e75765da47214eaf0f3063b02de6c9b555a8c600b18e054d0bea74a2395510838d24d661e48ed9b1454704f5907c3bf897c525abf9117da4c76ab3e4021d375e273e734d4bb1d64468443ce078d4d1fb48e862e4bcd3366a7c0c7d8ed47b614967ebe6aa0709b4fcb774d90f245ea64f27258948effebe206b12cc37f0ca02e0a3ed4f57a40efa759224720e381980f86828e93d017003776abab27025819580b1440a11a9411ed0298ebf194bf77e9aa0de8236b9de59d972fa5f86f6db4150e9d160c90adffd3790c75fc10bec000abbbfa36940e46f766f13fd7d2a00ddadcf7cfea7341c54a8b788a6c5cf50d346e6d451004a4bbb04f731662d4193d7649b480c91e190a801e87ae2cbea95a1cbab36b84818932ea1df94b82efdd5f322266f9da84b0b6dea8a5bf7ec74cff64f22bd7acc86b7560d27d097c5889f00bdb10cffb304c2e7252ec25f44015d5758043d6f87e2c6eb2 from ::ffff:175.184.167.21:40847 via port 2333 by UID 2333
+2019-02-28 23:14:06 ERROR    tcprelay.py:1097 can not parse header when handling connection from ::ffff:175.184.167.21:40847
+2019-02-28 23:14:12 ERROR    tcprelay.py:1039 [Errno 111] Connection refused
+2019-02-28 23:14:12 ERROR    tcprelay.py:1041 remote error, when connect to 198.11.138.254:53
+2019-02-28 23:14:17 ERROR    tcprelay.py:1039 [Errno 111] Connection refused
+2019-02-28 23:14:17 ERROR    tcprelay.py:1041 remote error, when connect to 198.11.138.254:53
+2019-02-28 23:14:22 ERROR    tcprelay.py:1039 [Errno 111] Connection refused
+2019-02-28 23:14:22 ERROR    tcprelay.py:1041 remote error, when connect to 198.11.138.254:53
+2019-02-28 23:14:28 ERROR    tcprelay.py:1039 [Errno 111] Connection refused
+2019-02-28 23:14:28 ERROR    tcprelay.py:1041 remote error, when connect to 198.11.138.254:53
+2019-02-28 23:14:33 ERROR    tcprelay.py:1039 [Errno 111] Connection refused
+2019-02-28 23:14:33 ERROR    tcprelay.py:1041 remote error, when connect to 198.11.138.254:53
+2019-02-28 23:14:38 INFO     tcprelay.py:1355 port 2333 connections up to 50
+2019-02-28 23:14:38 INFO     tcprelay.py:1379 Total connections up to 50
+2019-02-28 23:14:41 ERROR    tcprelay.py:1039 [Errno 111] Connection refused
+2019-02-28 23:14:41 ERROR    tcprelay.py:1041 remote error, when connect to 198.11.138.254:53
+2019-02-28 23:15:14 ERROR    tcprelay.py:1039 [Errno 32] Broken pipe
+2019-02-28 23:15:14 ERROR    tcprelay.py:1041 remote error, when connect to pics.dmm.co.jp:443
+2019-02-28 23:15:48 ERROR    tcprelay.py:1039 [Errno 111] Connection refused
+2019-02-28 23:15:48 ERROR    tcprelay.py:1041 remote error, when connect to 198.11.138.254:53
+2019-02-28 23:15:54 ERROR    tcprelay.py:1039 [Errno 111] Connection refused
+2019-02-28 23:15:54 ERROR    tcprelay.py:1041 remote error, when connect to 198.11.138.254:53
+2019-02-28 23:16:00 ERROR    tcprelay.py:1039 [Errno 111] Connection refused
+2019-02-28 23:16:00 ERROR    tcprelay.py:1041 remote error, when connect to 198.11.138.254:53
+2019-02-28 23:16:13 INFO     tcprelay.py:1358 port 2333 connections down to 25
+2019-02-28 23:22:54 INFO     tcprelay.py:1358 port 2333 connections down to 0
+2019-02-28 23:22:54 INFO     tcprelay.py:1382 Total connections down to 0
+2019-03-01 08:55:01 INFO     tcprelay.py:1355 port 2333 connections up to 25
+2019-03-01 08:55:14 INFO     tcprelay.py:1355 port 2333 connections up to 50
+2019-03-01 08:55:14 INFO     tcprelay.py:1379 Total connections up to 50
+2019-03-01 08:55:36 INFO     tcprelay.py:1355 port 2333 connections up to 75
+2019-03-01 08:56:52 INFO     tcprelay.py:1358 port 2333 connections down to 50
+2019-03-01 08:58:08 INFO     tcprelay.py:1358 port 2333 connections down to 25
+2019-03-01 08:58:30 INFO     tcprelay.py:1358 port 2333 connections down to 0
+2019-03-01 08:58:30 INFO     tcprelay.py:1382 Total connections down to 0
+2019-03-01 09:36:38 ERROR    tcprelay.py:1097 unable to parse hostname jjcyftx when handling connection from ::ffff:59.52.226.119:50004
+2019-03-01 09:36:38 ERROR    tcprelay.py:1097 unable to parse hostname rclnworenmx when handling connection from ::ffff:59.52.226.119:50005
+2019-03-01 09:36:38 ERROR    tcprelay.py:1097 unable to parse hostname doxagdyemisrhr when handling connection from ::ffff:59.52.226.119:50003

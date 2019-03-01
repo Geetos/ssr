@@ -1,0 +1,18 @@
+[
+    {
+        "d": 280408596,
+        "enable": 1,
+        "forbidden_port": "",
+        "method": "aes-128-ctr",
+        "obfs": "plain",
+        "passwd": "rah8514621",
+        "port": 2333,
+        "protocol": "auth_aes128_md5",
+        "protocol_param": "",
+        "speed_limit_per_con": 0,
+        "speed_limit_per_user": 0,
+        "transfer_enable": 900727656415232,
+        "u": 25633724,
+        "user": "Gleamora"
+    }
+]
